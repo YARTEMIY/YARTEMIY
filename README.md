@@ -69,7 +69,7 @@
   <a href="https://t.me/ar_yarovikov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:yarovikov2003@gmail.com" target="_blank">
+  <a href="yarovikov2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
 
